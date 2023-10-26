@@ -72,3 +72,9 @@ Currently, two official plugins are available:
     }
 
 ```
+
+# _Components_
+
+1. **Board.jsx**
+2. **Game.jsx**
+3. **Square.jsx**
