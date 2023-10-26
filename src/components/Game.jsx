@@ -29,6 +29,7 @@ const listButton = {
   marginBottom: ".3em",
   border: "none",
   borderRadius: "5px",
+  cursor: "pointer",
 };
 
 const Game = () => {
