@@ -1,6 +1,10 @@
 # TIC TAC TOE GAME
 
-Quick start:
+![Alt text](Screenshot-1.png)
+
+![Alt text](Screenshot-2.png)
+
+_Quick start:_
 
 > ```
 > $ yarn # pnpm install
