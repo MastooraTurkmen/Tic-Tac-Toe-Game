@@ -16,6 +16,10 @@ https://tic-game-tac.netlify.app/
 
 ![Tic tac](./screenshots/Screenshot-3.png)
 
+------
+
+## Before you Begin 🛠 🔨
+
 _Quick start:_
 
 ```
