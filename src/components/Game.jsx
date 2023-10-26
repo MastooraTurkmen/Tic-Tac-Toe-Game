@@ -21,6 +21,16 @@ const list = {
   listStyleType: "none",
 };
 
+const listButton = {
+  background: "#0C356A",
+  fontSize: "1.2em",
+  color: "white",
+  padding: ".5em",
+  marginBottom: ".3em",
+  border: "none",
+  borderRadius: "5px",
+};
+
 const Game = () => {
   const [history, setHistory] = useState([Array(9).fill(null)]);
   const [stepNumber, setStepNumber] = useState(0);
@@ -50,7 +60,9 @@ const Game = () => {
       const destination = move ? `Go to move#${move}` : "Go to start";
       return (
         <li style={list} key={move}>
-          <button onClick={() => jumpTo(move)}>{destination}</button>
+          <button style={listButton} onClick={() => jumpTo(move)}>
+            {destination}
+          </button>
         </li>
       );
     });
