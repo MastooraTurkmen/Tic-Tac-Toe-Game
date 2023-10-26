@@ -1,6 +1,6 @@
 # TIC TAC TOE GAME
 
-A very simple site for playing, tic tac toe game is a populer game in the world. Here, tow players can play, one is X and other is O. 
+A very simple site for playing, tic tac toe game is a populer game in the world. Here, tow players can play, one is ***X*** and other is ***O***. 
 
 https://tic-game-tac.netlify.app/
 
