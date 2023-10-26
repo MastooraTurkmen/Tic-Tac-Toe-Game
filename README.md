@@ -12,7 +12,7 @@ https://tic-game-tac.netlify.app/
 
 ![Tic tac](./screenshots/Screenshot-1.png)
 
-![Alt text](Screenshot-3.png)
+![Alt text](./screenshots/Screenshot-3.png)
 
 _Quick start:_
 
