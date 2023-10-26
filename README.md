@@ -4,7 +4,7 @@ https://tic-game-tac.netlify.app/
 
 **First Start**
 
-![Tic tac](Screenshot-1.png)
+![Tic tac](./screenshots/Screenshot-1.png)
 
 ![Tic tac](Screenshot-2.png)
 
