@@ -12,6 +12,8 @@ const player = {
   background: "lightblue",
   textAlign: "center",
   borderRadius: "5px",
+  fontWeight: "bold",
+  fontSize: "1.2em",
 };
 
 const Game = () => {
