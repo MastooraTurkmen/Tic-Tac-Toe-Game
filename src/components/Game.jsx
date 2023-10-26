@@ -19,6 +19,7 @@ const player = {
 const list = {
   textDecoration: "none",
   listStyleType: "none",
+  display: "grid",
 };
 
 const listButton = {
