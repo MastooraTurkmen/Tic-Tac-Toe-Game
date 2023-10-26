@@ -16,6 +16,11 @@ const player = {
   fontSize: "1.2em",
 };
 
+const list = {
+  textDecoration: "none",
+  listStyleType: "none",
+};
+
 const Game = () => {
   const [history, setHistory] = useState([Array(9).fill(null)]);
   const [stepNumber, setStepNumber] = useState(0);
@@ -44,7 +49,7 @@ const Game = () => {
     history.map((_step, move) => {
       const destination = move ? `Go to move#${move}` : "Go to start";
       return (
-        <li key={move}>
+        <li style={list} key={move}>
           <button onClick={() => jumpTo(move)}>{destination}</button>
         </li>
       );
