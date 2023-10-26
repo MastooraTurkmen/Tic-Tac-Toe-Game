@@ -2,9 +2,9 @@
 
 https://tic-game-tac.netlify.app/
 
-![Alt text](Screenshot-1.png)
+![Tic tac](Screenshot-1.png)
 
-![Alt text](Screenshot-2.png)
+![Tic tac](Screenshot-2.png)
 
 _Quick start:_
 
