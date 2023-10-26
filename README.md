@@ -6,6 +6,10 @@ https://tic-game-tac.netlify.app/
 
 ![Tic tac](Screenshot-2.png)
 
+![Tic tac](Screenshot-1.png)
+
+![Alt text](Screenshot-3.png)
+
 _Quick start:_
 
 > ```
