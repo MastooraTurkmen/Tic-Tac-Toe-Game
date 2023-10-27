@@ -40,6 +40,9 @@ $ yarn run dev
 $ yarn start
 ````
 
+
+Head over to https://vitejs.dev/ to learn more about using vite
+
 ## Development
 
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
