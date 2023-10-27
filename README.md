@@ -54,6 +54,9 @@ $ cd Tic-Tac-Toe-Game
 ````
 
 
+## Languages and Tools are used 🗣️🔧
+
+
 
 ## Development
 
