@@ -39,6 +39,11 @@ $ pnpm run dev
 $ pnpm start
 ````
 
+````
+$ yarn install
+$ yarn run dev
+$ yarn start
+````
 
 ## Development
 
