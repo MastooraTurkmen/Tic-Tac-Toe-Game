@@ -22,11 +22,6 @@ https://tic-game-tac.netlify.app/
 
 _Quick start:_
 
-```
-$ yarn # pnpm install
-$ yarn build # pnpm run build
-```
-
 ````
 $ npm install
 $ npm run dev
