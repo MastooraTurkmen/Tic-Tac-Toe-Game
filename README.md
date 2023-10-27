@@ -50,6 +50,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 $ git clone https://github.com/MastooraTurkmen/Tic-Tac-Toe-Game.git
 
 # Go inside the repository
+$ cd Tic-Tac-Toe-Game
 ````
 
 
