@@ -88,6 +88,7 @@ Currently, two official plugins are available:
 
 
 ## Deployment To Netlify 📥
+1. How to deploy our project to the Netlify site?
 
 
 
