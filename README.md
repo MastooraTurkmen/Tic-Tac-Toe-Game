@@ -64,6 +64,8 @@ $ cd Tic-Tac-Toe-Game
     + [React](https://github.com/topics/react)
     + [JavaScript](https://github.com/topics/javascript)
 
+2. **Tools** 🔧
+
 
 ## Development
 
