@@ -93,7 +93,7 @@ Currently, two official plugins are available:
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
-
+6. After selecting here you can see that the project **_Review configuration for Tic-Tac-Toe-Game_**
 
 
 
