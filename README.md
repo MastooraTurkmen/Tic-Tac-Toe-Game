@@ -68,6 +68,7 @@ $ cd Tic-Tac-Toe-Game
     + [Chrome](https://github.com/topics/chrome)
     + [Figma](https://github.com/topics/figma)
     + [VSCode](https://github.com/topics/vscode)
+    + [Netlify](https://github.com/topics/netlify)
 
 
 ## Development
