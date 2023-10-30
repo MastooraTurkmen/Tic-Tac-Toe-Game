@@ -10,7 +10,7 @@ https://tic-game-tac.netlify.app/
 
 ![Tic tac](./screenshots/Screenshot-2.png)
 
-**First Start**
+**First Start** 📱💻
 
 ![Tic tac](./screenshots/Screenshot-1.png)
 
