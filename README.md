@@ -4,7 +4,7 @@ A very simple site for playing, tic tac toe game is a populer game in the world.
 
 https://tic-game-tac.netlify.app/
 
-**First Start**
+**First Start** 📱💻
 
 ![Tic tac](./screenshots/Screenshot-1.png)
 
