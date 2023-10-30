@@ -98,7 +98,6 @@ Currently, two official plugins are available:
 
 -------
 
-
 ## _App JSX_
 
 ```
@@ -289,3 +288,8 @@ export default Game;
     export default Square;
 
 ```
+
+-------
+
+
+# React + Vite
