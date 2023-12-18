@@ -71,7 +71,7 @@ $ cd Tic-Tac-Toe-Game
     + [Netlify](https://github.com/topics/netlify)
 
 
-## Development
+## Development 📦
 
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
 
